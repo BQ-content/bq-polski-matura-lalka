@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "id": "bq-polski-lalka",
+  "title": "Lalka — postacie (rozszerzenie)",
+  "description": "Lalka — postacie (rozszerzenie)",
+  "author": {
+    "name": "Karamba Bober",
+    "email": "gotoreadyai@gmail.com"
+  },
+  "license": "CC-BY-SA-4.0",
+  "version": "0.1.0",
+  "extends": {
+    "title": "Polski — matura (mini)"
+  },
+  "provides": {
+    "nodes": [
+      "lalka-deep"
+    ],
+    "terms": [
+      "Ignacy Rzecki",
+      "Izabela Łęcka",
+      "Stanisław Wokulski",
+      "powstanie styczniowe"
+    ]
+  },
+  "mentions": [],
+  "stats": {
+    "nodes": 1,
+    "terms": 4,
+    "edges": 1,
+    "mentions_unmet": 0
+  }
+}

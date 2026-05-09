@@ -1,0 +1,22 @@
+[
+  {
+    "type": "tree",
+    "data": {
+      "title": "Lalka — postacie (rozszerzenie)",
+      "extends": "Polski — matura (mini)",
+      "edges": "[{\"from\": \"lalka\", \"to\": \"lalka-deep\", \"type\": \"postac\"}]"
+    },
+    "children": [
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "lalka-deep",
+          "title": "Lalka — postacie",
+          "branch": "lektury",
+          "tier": 1,
+          "hits": 0
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "Stanisław Wokulski",
+      "definition": "Główny bohater *Lalki*, kupiec wzbogacony na wojnie. Romantyk w epoce pragmatyzmu — kocha {{Izabela Łęcka}} jak ideał. Klasyczny {{idealista}}, doświadcza {{klęska idealizmu}}. Może wysadza się dynamitem, może wyjeżdża na Wschód.",
+      "category": "motywy",
+      "forms": "[\"Stanisław Wokulski\", \"Wokulskiego\", \"Wokulskim\", \"Wokulski\"]",
+      "nodes": "[\"lalka\", \"lalka-deep\"]",
+      "quiz": "{\"question\": \"Czym jest Wokulski jako postać literacka?\", \"answer\": \"Romantyk w epoce pozytywistycznej — łączy idealizm z kapitalizmem. Kocha bezgranicznie, inwestuje fortunę dla miłości. Symbol klęski romantyzmu.\", \"wrong\": [\"typowy mieszczanin\", \"arystokrata\", \"powstaniec\"], \"hint\": \"Romantyk-kupiec.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Izabela Łęcka",
+      "definition": "Arystokratyczna piękność, obiekt miłości {{Stanisław Wokulski}}. Egoistka, ceni tytuł i pozory. Nie potrafi pokochać Wokulskiego mimo jego ofiar — różnica klas okazuje się silniejsza niż uczucie.",
+      "category": "motywy",
+      "forms": "[\"Izabela Łęcka\", \"Izabeli Łęckiej\", \"Izabelę Łęcką\", \"Izabelą Łęcką\"]",
+      "nodes": "[\"lalka\", \"lalka-deep\"]",
+      "quiz": "{\"question\": \"Dlaczego Izabela odrzuca Wokulskiego mimo jego majątku?\", \"answer\": \"Ceni przede wszystkim arystokratyczne pochodzenie. Wokulski to dla niej kupiec, nie szlachcic — różnica klas jest dla niej silniejsza niż jego majątek.\", \"wrong\": [\"kocha innego\", \"jest chora\", \"rodzice się sprzeciwiają\"], \"hint\": \"Pochodzenie ważniejsze niż pieniądz.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "Ignacy Rzecki",
+      "definition": "Subiekt w sklepie Wokulskiego, dawniejszy żołnierz Wiosny Ludów. Romantyczny napoleończyk, czyta dziennik. Drugi {{narrator wszechwiedzący}} powieści — przez jego pamiętnik widzimy historię.",
+      "category": "motywy",
+      "forms": "[\"Ignacy Rzecki\", \"Rzeckiego\", \"Rzeckim\", \"Rzecki\"]",
+      "nodes": "[\"lalka\", \"lalka-deep\"]",
+      "quiz": "{\"question\": \"Kim jest Rzecki w *Lalce*?\", \"answer\": \"Subiektem Wokulskiego, dawnym napoleończykiem (Wiosna Ludów). Jego pamiętnik to drugi narrator powieści — pokazuje historie z innej perspektywy.\", \"wrong\": [\"dyrektor banku\", \"lekarz\", \"student\"], \"hint\": \"Subiekt z dziennikiem.\"}"
+    }
+  },
+  {
+    "type": "term",
+    "data": {
+      "term": "powstanie styczniowe",
+      "definition": "Zryw narodowy 1863 przeciw Rosji. Klęska — represje, zsyłki, koniec romantycznej walki zbrojnej. Pozytywizm wyrasta z porażki: zamiast walki — {{praca u podstaw}}.",
+      "category": "motywy",
+      "forms": "[\"powstanie styczniowe\", \"powstania styczniowego\"]",
+      "nodes": "[\"lalka\", \"lalka-deep\"]",
+      "quiz": "{\"question\": \"Z jaką klęską historyczną wiąże się polski pozytywizm?\", \"answer\": \"Z powstaniem styczniowym (1863). Po jego klęsce inteligencja porzuciła walkę zbrojną — postawiła na pracę u podstaw.\", \"wrong\": [\"powstanie listopadowe\", \"rozbiory\", \"powstanie kościuszkowskie\"], \"hint\": \"1863, koniec walki zbrojnej.\"}"
+    }
+  }
+]
