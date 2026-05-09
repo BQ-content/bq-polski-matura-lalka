@@ -1,0 +1,13 @@
+[
+  {
+    "type": "term",
+    "data": {
+      "term": "powstanie styczniowe",
+      "definition": "Zryw narodowy 1863 przeciw Rosji. Klęska — represje, zsyłki, koniec romantycznej walki zbrojnej. Pozytywizm wyrasta z porażki: zamiast walki — {{praca u podstaw}}. Tło *Lalki* — pokolenie Wokulskiego po klęsce.",
+      "category": "motywy",
+      "forms": "[\"powstanie styczniowe\", \"powstania styczniowego\"]",
+      "nodes": "[\"lalka\", \"lalka-wydarzenia\"]",
+      "quiz": "{\"question\": \"Z jaką klęską historyczną wiąże się polski pozytywizm?\", \"answer\": \"Z powstaniem styczniowym (1863). Po jego klęsce inteligencja porzuciła walkę zbrojną — postawiła na pracę u podstaw.\", \"wrong\": [\"powstanie listopadowe\", \"rozbiory\", \"powstanie kościuszkowskie\"], \"hint\": \"1863, koniec walki zbrojnej.\"}"
+    }
+  }
+]

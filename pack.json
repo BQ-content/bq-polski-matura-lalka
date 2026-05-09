@@ -1,20 +1,21 @@
 {
   "schemaVersion": "1.0",
   "id": "bq-polski-matura-lalka",
-  "title": "Lalka — postacie (rozszerzenie)",
+  "title": "Lalka — postacie i wydarzenia (rozszerzenie)",
   "description": "Lalka — postacie (rozszerzenie)",
   "author": {
     "name": "Karamba Bober",
     "email": "gotoreadyai@gmail.com"
   },
   "license": "CC-BY-SA-4.0",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "extends": {
     "title": "Polski — matura (mini)"
   },
   "provides": {
     "nodes": [
-      "lalka-deep"
+      "lalka-postacie",
+      "lalka-wydarzenia"
     ],
     "terms": [
       "Ignacy Rzecki",
@@ -25,9 +26,9 @@
   },
   "mentions": [],
   "stats": {
-    "nodes": 1,
+    "nodes": 2,
     "terms": 4,
-    "edges": 1,
+    "edges": 2,
     "mentions_unmet": 0
   }
 }

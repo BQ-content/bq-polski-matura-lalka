@@ -2,17 +2,27 @@
   {
     "type": "tree",
     "data": {
-      "title": "Lalka — postacie (rozszerzenie)",
+      "title": "Lalka — postacie i wydarzenia (rozszerzenie)",
       "extends": "Polski — matura (mini)",
-      "edges": "[{\"from\": \"lalka\", \"to\": \"lalka-deep\", \"type\": \"postac\"}]"
+      "edges": "[{\"from\": \"lalka\", \"to\": \"lalka-postacie\", \"type\": \"postac\"}, {\"from\": \"lalka\", \"to\": \"lalka-wydarzenia\", \"type\": \"wydarzenie\"}]"
     },
     "children": [
       {
         "type": "node",
         "data": {
-          "nodeId": "lalka-deep",
+          "nodeId": "lalka-postacie",
           "title": "Lalka — postacie",
           "branch": "postacie",
+          "tier": 1,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "lalka-wydarzenia",
+          "title": "Lalka — wydarzenia",
+          "branch": "wydarzenia",
           "tier": 1,
           "hits": 0
         }
