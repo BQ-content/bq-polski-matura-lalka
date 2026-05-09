@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "id": "bq-polski-lalka",
+  "id": "bq-polski-matura-lalka",
   "title": "Lalka — postacie (rozszerzenie)",
   "description": "Lalka — postacie (rozszerzenie)",
   "author": {
@@ -8,7 +8,7 @@
     "email": "gotoreadyai@gmail.com"
   },
   "license": "CC-BY-SA-4.0",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "extends": {
     "title": "Polski — matura (mini)"
   },
